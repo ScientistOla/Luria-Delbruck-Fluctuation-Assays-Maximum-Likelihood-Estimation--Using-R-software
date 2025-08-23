@@ -1,6 +1,5 @@
-# Luria-Delbr-ck-Fluctuation-Assays-Maximum-Likelihood-Estimation-R-Tool
+# Luria-Delbruck-Fluctuation-Assays-Maximum-Likelihood-Estimation- Using R Software
 Computational Analysis of Luria-Delbrück Fluctuation Assays Using Maximum Likelihood Estimation: A Comprehensive R-Based Analysis Tool
-Readme
 
 Fluctuation Assay Analysis in R
 Enhanced implementation combining MSS Maximum Likelihood and Two-Parameter Model Analysis
