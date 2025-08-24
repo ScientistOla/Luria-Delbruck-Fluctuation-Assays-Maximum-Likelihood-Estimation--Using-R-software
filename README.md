@@ -124,13 +124,13 @@ And cite the original methodological papers:
 •	Lang GI, Murray AW. Estimating the per-base-pair mutation rate in the yeast Saccharomyces cerevisiae. Genetics. 2008;178(1):67-82.
 Related Resources
 •	Code Ocean Repository: Estimation of mutation rate for fluctuation assay via MSS Maximum Likelihood
-•	Original Publication: Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024). Software Impacts, 21, 100661.
+•	Original Publication: Abdalla, O. M., Walker, C. G. (2024). Software Impacts, 21, 100661.
 Contact 
 ola_abdallah@science.tanta.edu.eg
 
 
 Acknowledgments
-• Primary R Implementation: Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024)
+• Primary R Implementation: Abdalla, O. M., Walker, C. G. (2024)
 • Original MATLAB functions: Greg Lang, Harvard University (Lang & Murray, 2008). 
 The following functions are based on his publication:
 • generateLD() - Generates Luria-Delbruck distribution
