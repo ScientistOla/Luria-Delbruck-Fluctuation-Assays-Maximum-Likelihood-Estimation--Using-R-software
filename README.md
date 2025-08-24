@@ -1,9 +1,8 @@
-# Luria-Delbruck-Fluctuation-Assays-Maximum-Likelihood-Estimation- Using R Software
+# Luria-Delbr-ck-Fluctuation-Assays-Maximum-Likelihood-Estimation-R-Tool
 Computational Analysis of Luria-Delbrück Fluctuation Assays Using Maximum Likelihood Estimation: A Comprehensive R-Based Analysis Tool
-
 Fluctuation Assay Analysis in R
 Enhanced implementation combining MSS Maximum Likelihood and Two-Parameter Model Analysis
-Based on the work by Abdalla, Walker & Ishimori (2024) and Original MATLAB functions: Greg Lang, Harvard University (Lang & Murray, 2008). 
+Based on the work by Abdalla, Walker (2024) and Original MATLAB functions: Greg Lang, Harvard University (Lang & Murray, 2008). 
 Overview
 This repository provides R implementations for analyzing Luria-Delbrück fluctuation assay data using both the Ma-Sandri-Sarkar (MSS) Maximum Likelihood method and two-parameter model analysis. The code combines and extends functionality from published algorithms to provide comprehensive mutation rate analysis.
 Features
@@ -119,19 +118,19 @@ This code is provided under the MIT License. Please cite appropriately if used i
 Citation
 If you use this code in your research, please cite:
 Primary Citation:
-Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024). R-code for calculating fluctuation assay results and 95% confidence intervals based on Ma-Sandri-Sarkar maximum likelihood. Software Impacts, 21, 100661. https://doi.org/10.1016/j.simpa.2024.100661
+Abdalla, O. M., Walker, C. G. (2024). R-code for calculating fluctuation assay results and 95% confidence intervals based on Ma-Sandri-Sarkar maximum likelihood. Software Impacts, 21, 100661. https://doi.org/10.1016/j.simpa.2024.100661
 And cite the original methodological papers:
 •	Sarkar S, Ma WT, Sandri GH. On fluctuation analysis: a new, simple and efficient method for computing the expected number of mutants. Genetica. 1992;85(2):173-9.
 •	Lang GI, Murray AW. Estimating the per-base-pair mutation rate in the yeast Saccharomyces cerevisiae. Genetics. 2008;178(1):67-82.
 Related Resources
 •	Code Ocean Repository: Estimation of mutation rate for fluctuation assay via MSS Maximum Likelihood
-•	Original Publication: Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024). Software Impacts, 21, 100661.
+•	Original Publication: Abdalla, O. M., Walker, C. G. (2024). Software Impacts, 21, 100661.
 Contact 
 ola_abdallah@science.tanta.edu.eg
 
 
 Acknowledgments
-• Primary R Implementation: Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024)
+• Primary R Implementation: Abdalla, O. M., Walker, C. G. (2024)
 • Original MATLAB functions: Greg Lang, Harvard University (Lang & Murray, 2008). 
 The following functions are based on his publication:
 • generateLD() - Generates Luria-Delbruck distribution
