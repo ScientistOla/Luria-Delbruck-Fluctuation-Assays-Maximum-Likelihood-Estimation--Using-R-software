@@ -1,5 +1,5 @@
 # Fluctuation Assay Analysis in R
-# Based on Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024)
+# Based on Abdalla, O. M., Walker, C. G. (2024)and original MATLAB script by Greg Lang, Harvard University (Lang & Murray, 2008)
 # Enhanced with Two-Parameter Model Analysis
 #
 # SIMPLE USAGE FOR RESEARCHERS:
@@ -344,5 +344,5 @@ cat("data <- c(0, 0, 1, 1, 2, 3, 5, 8, 12)\n")
 cat("nt <- 100000\n\n")
 
 cat("Citation:\n")
-cat("Abdalla, O. M., Walker, C. G., & Ishimori, K. (2024).\n")
+cat("Abdalla, O. M., Walker, C. G. (2024).\n")
 cat("Software Impacts, 21, 100661.\n")
